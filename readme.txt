@@ -60,3 +60,7 @@ Superuser
 Set Shell on
 PC:
 su
+
+
+Inspiration:
+https://xdaforums.com/t/is-possible-to-root-xcover-pro.4290087/post-85317391
