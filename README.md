@@ -1,0 +1,1 @@
+# How_to_root_Samsung_Galaxy_Xcover_Pro_SM-G715FN-DS_smartphone-
