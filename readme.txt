@@ -16,13 +16,12 @@ Model: SM-G715FN (SM-G715FN/DS worked not, DS stands for Dual SIM)              
 Region: XEF (France for me, knew by https://github.com/zacharee/SamloaderKotlin?tab=readme-ov-file#how-do-i-know-which-csc-to-use)    Settings
 Serial: R58N416YJDP (knew by smartphone, Settings, About phone)                                                                       Developer options
 Check for Updates                                                                                                                     OEM unlocking
-Download                                                                                                                              USB debugging
-                                                                                                                                      Power off
-SM-G715FN_4_20240130132110_y912sb1jdi_fac_G715FNXXSDFXA1_G715FNOXMDFXA1_G715FNXXSDFXA1_G715FNXXSDFXA1_XEF.zip                         Press volume up & down
-    AP_G715FNXXSDFXA1_QB76687873_REV00_user_low_ship_meta_OS13.tar.md5                                                                Plug the smartphone as USB to a PC
-        boot.img.lz4                                                                                                                  Volume up long press (Device unlock mode)
-            boot.img                                                                                                                  Volume up (Unlock bootloader)
-                                                                                                                                      Reinstall Android
+Download                                                                                                                              Power off
+                                                                                                                                      Press volume up & down
+SM-G715FN_4_20240130132110_y912sb1jdi_fac_G715FNXXSDFXA1_G715FNOXMDFXA1_G715FNXXSDFXA1_G715FNXXSDFXA1_XEF.zip                         Plug the smartphone as USB to a PC
+    AP_G715FNXXSDFXA1_QB76687873_REV00_user_low_ship_meta_OS13.tar.md5                                                                Volume up long press (Device unlock mode)
+        boot.img.lz4                                                                                                                  Volume up (Unlock bootloader)
+            boot.img                                                                                                                  Reinstall Android
                                                                                                                                       Download Magisk https://github.com/topjohnwu/Magisk/releases
                                                                                                                                       Install it
 Upload boot.img to the smartphone by USB
@@ -49,6 +48,10 @@ Reinstall Magisk
 The end.
 
 E.g. root adb shell:
+Smartphone:
+Settings
+Developer options
+USB debugging
 PC:
 adb shell
 Smartphone:
