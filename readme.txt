@@ -1,5 +1,7 @@
 https://www.samsung.com/ae/business/smartphones/xcover/galaxy-xcover-pro-g715-sm-g715fzkdxsg/
 
+By patching boot.img by Magisk.
+
 Softwares used:
 Bifrost
 Magisk
