@@ -20,7 +20,7 @@ Serial: R58N416YJDP (knew by smartphone, Settings, About phone)                 
 Check for Updates                                                                                                                     OEM unlocking
 Download                                                                                                                              Power off
                                                                                                                                       Press volume up & down
-SM-G715FN_4_20240130132110_y912sb1jdi_fac_G715FNXXSDFXA1_G715FNOXMDFXA1_G715FNXXSDFXA1_G715FNXXSDFXA1_XEF.zip                         Plug the smartphone as USB to a PC
+SM-G715FN_4_20240130132110_y912sb1jdi_fac_G715FNXXSDFXA1_G715FNOXMDFXA1_G715FNXXSDFXA1_G715FNXXSDFXA1_XEF.zip                         Plug the smartphone to the PC by USB
     AP_G715FNXXSDFXA1_QB76687873_REV00_user_low_ship_meta_OS13.tar.md5                                                                Volume up long press (Device unlock mode)
         boot.img.lz4                                                                                                                  Volume up (Unlock bootloader)
             boot.img                                                                                                                  Reinstall Android
@@ -38,7 +38,7 @@ Upload Downloads/magisk_patched-28102_jXp8V.img to the PC by USB
 PC:                                                                                                                                    Smartphone:
 Rename magisk_patched-28102_jXp8V.img to boot.img                                                                                      Power off
                                                                                                                                        Press volume up & down
-sudo pacman -S heimdall                                                                                                                Plug the smartphone as USB to a PC
+sudo pacman -S heimdall                                                                                                                Plug the smartphone to the PC by USB
                                                                                                                                        Volume up (Continue)
 heimdall flash --BOOT a_path/boot.img
 
